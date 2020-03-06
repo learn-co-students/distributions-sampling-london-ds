@@ -23,7 +23,6 @@ By the end of the lesson students should be able to...
 * [ ] Describe what information is captured by a confidence interval  
 * [ ] List what parameters go into calculating a confidence interval
 * [ ] Explain the CI RPsychologist simulation 
-* [ ] Practical Notebook .....
 
 ## Outline 
 
@@ -42,5 +41,6 @@ By the end of the lesson students should be able to...
 	2. R Psychologist Visualization
 	3. Calculating a Confidence Interval 
 4. Practical Application 
-	1. List here...
+	1. Marbles Simulation with `Sampling.ipynb`
+	2. Sampling Script  
 
